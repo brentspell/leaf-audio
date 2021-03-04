@@ -1,5 +1,5 @@
-absl-py>=0.10.0
-gin-config>=0.4.0
-pydub>=0.24.0
-lingvo>=0.8.2
-numpy==1.18.2
+absl-py
+gin-config
+pydub
+lingvo
+numpy
