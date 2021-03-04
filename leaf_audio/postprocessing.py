@@ -19,7 +19,6 @@
 from typing import Union
 
 import gin
-from lingvo.core import spectrum_augmenter
 import tensorflow.compat.v2 as tf
 
 
